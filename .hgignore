@@ -1,0 +1,16 @@
+syntax: glob
+
+# IDEA
+**.iml
+**.ipr
+**.iws
+.idea
+
+# Eclipse
+.metadata
+.classpath
+.project
+.settings
+
+# output
+target
